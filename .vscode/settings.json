@@ -5,3 +5,9 @@
         "lib/**/*.jar"
     ]
 }
+    "terminal.integrated.profiles.windows": {
+      "Command Prompt": {
+        "path": "${env:windir}\\Sysnative\\cmd.exe"
+    }
+    
+}
