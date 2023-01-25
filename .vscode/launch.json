@@ -4,7 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "Launch UsuarioSmartTv",
+            "request": "launch",
+            "mainClass": "edu.bella.quartasemana.UsuarioSmartTv",
+            "projectName": "projeto-java-basico_1e3a458f"
+        },
         {
             "type": "java",
             "request": "attach",
@@ -30,7 +36,7 @@
             "name": "Launch MinhaClasse",
             "request": "launch",
             "mainClass": "edu.bella.segundasemana.MinhaClasse",
-            "projectName": "projeto-java-basico_1e3a458f"
+            "projectName": "projeto-java-basico_MinhaClasse"
         },
         {
             "type": "java",
