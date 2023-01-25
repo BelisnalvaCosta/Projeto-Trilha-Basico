@@ -1,6 +1,6 @@
 # Projeto_Trilha_Java_Básico
 
-Exemplos de projetos com códigos básicos na linguagem java[^1].
+Exemplos de projetos com códigos básicos na linguagem java [^1].
 
 Este projeto feito na IDE Visual Studio Code na linguagem Java, com a orientação do professor Gleyson Sampaio, tem objetivo de nos orientar as diversas formas de faze-lo:
 
