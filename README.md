@@ -1,18 +1,30 @@
-## Getting Started
+# Projeto_Trilha_Java_Básico
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Exemplos de projetos com códigos básicos na linguagem java[^1].
 
-## Folder Structure
+Este projeto feito na IDE Visual Studio Code na linguagem Java, com a orientação do professor Gleyson Sampaio, tem objetivo de nos orientar as diversas formas de faze-lo:
 
-The workspace contains two folders by default, where:
+## _*Tipos de Variáveis*_
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+1 - 
+2 - 
+3 -
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## _*Separados por semanas*_
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- `Primeira semana`: Boletim Estudantil
+Método básico de efetuar a media do luno.
 
-## Dependency Management
+- `Segunda semana`: Minha Classe
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- `Terceira semana`: 
+
+- `Quarta semana`: SmartTV e UsuárioSmartTV
+Uma interação entre a TV e seu usuário
+
+
+> "If you want to customize the folder structure!" `.vscode/settings.json` and update the related settings there.
+
+## Projeto
+
+A `JAVA PROJECTS` can be found [here](https://github.com/).
