@@ -13,18 +13,23 @@ Este projeto feito na IDE Visual Studio Code na linguagem Java, com a orientaç�
 ## _*Separados por semanas*_
 
 - `Primeira semana`: Boletim Estudantil
-Método básico de efetuar a media do luno.
+
+Método básico de efetuar a media do aluno.
 
 - `Segunda semana`: Minha Classe
 
+
 - `Terceira semana`: 
 
+Operadores
+
 - `Quarta semana`: SmartTV e UsuárioSmartTV
+
 Uma interação entre a TV e seu usuário
 
 
-> "If you want to customize the folder structure!" `.vscode/settings.json` and update the related settings there.
+> "If you want to customize the folder."
 
-## Projeto
+## My Project
 
-A `JAVA PROJECTS` can be found [here](https://github.com/).
+`JAVA PROJECTS` can be found [here](https://github.com/BelisnalvaCosta/Projeto-Trilha-Basico.git).
