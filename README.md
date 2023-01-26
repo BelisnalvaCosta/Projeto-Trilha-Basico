@@ -1,4 +1,4 @@
-# Projeto-Trilha-Básico
+# Projeto-Trilha-Java-Básico
 
 Exemplos de projetos com códigos básicos na linguagem java[^1]
 
@@ -8,7 +8,7 @@ Este projeto foi feito na IDE Visual Studio Code, na linguagem Java, com a orien
 
 O segundo projeto: Contar a minha experència no DIOCampusExpert#3
 
-## Branch main
+###         Branch main
 ## _*Tipos de Variáveis*_
 
 1 -
@@ -27,9 +27,8 @@ Método básico de efetuar a media do luno.
 - `Quarta semana`: SmartTV e UsuárioSmartTV
 Uma interação entre a TV e seu usuário
 
-## Branch master
-
 ## Projeto a ser concluído...:
+### Branch master
 Objetivo deste segundo projeto será na lingugem Java, JavaScript, Html e CSS3
 
 > "If you want to customize the folder structure!" 
