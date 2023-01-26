@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TiposOperadores",
+            "request": "launch",
+            "mainClass": "edu.bella.terceirasemana.TiposOperadores",
+            "projectName": "projeto-java-basico_1e3a458f"
+        },
+        {
+            "type": "java",
+            "name": "Launch TiposOperadores",
+            "request": "launch",
+            "mainClass": "edu.bella.terceirasemana.TiposOperadores",
+            "projectName": "projeto-java-basico-terminal_1e3a458f"
+        },
+        {
+            "type": "java",
             "name": "Launch UsuarioSmartTv",
             "request": "launch",
             "mainClass": "edu.bella.quartasemana.UsuarioSmartTv",
@@ -22,7 +36,7 @@
             "type": "java",
             "name": "Launch BoletimEstudantil",
             "request": "launch",
-            "mainClass": "${file}"
+            "mainClass": "${BoletimEstudantil}"
         },
         {
             "type": "java",
@@ -37,13 +51,6 @@
             "request": "launch",
             "mainClass": "edu.bella.segundasemana.MinhaClasse",
             "projectName": "projeto-java-basico_MinhaClasse"
-        },
-        {
-            "type": "java",
-            "name": "Launch Operadores",
-            "request": "launch",
-            "mainClass": "edu.bella.terceirasemana.Operadores",
-            "projectName": "projeto-java-basico_1e3a458f"
         }
     ]
 }
