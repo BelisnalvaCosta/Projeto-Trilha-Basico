@@ -10,14 +10,7 @@
             "request": "launch",
             "mainClass": "edu.bella.terceirasemana.TiposOperadores",
             "projectName": "projeto-java-basico_1e3a458f"
-        },
-        {
-            "type": "java",
-            "name": "Launch TiposOperadores",
-            "request": "launch",
-            "mainClass": "edu.bella.terceirasemana.TiposOperadores",
-            "projectName": "projeto-java-basico-terminal_1e3a458f"
-        },
+        },        
         {
             "type": "java",
             "name": "Launch UsuarioSmartTv",
