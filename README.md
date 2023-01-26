@@ -1,9 +1,12 @@
 # Projeto-Trilha-Básico
 
-Exemplos de projetos com códigos básicos na linguagem java [^1]
-Este projeto têm 2 branches (ramificações):A principal é a Main e a banch secundaria é a Master
+Exemplos de projetos com códigos básicos na linguagem java[^1]
+
+Este projeto têm 2 branches (ramificações): A principal é a Main e a banch secundaria é a Master
 
 Este projeto foi feito na IDE Visual Studio Code, na linguagem Java, com a orientação do professor Gleyson Sampaio. Tem objetivo de nos orientar as diversas formas de fazê-lo:
+
+O segundo projeto: Contar a minha experència no DIOCampusExpert#3
 
 ## Branch main
 ## _*Tipos de Variáveis*_
@@ -25,6 +28,7 @@ Método básico de efetuar a media do luno.
 Uma interação entre a TV e seu usuário
 
 ## Branch master
+
 ## Projeto a ser concluído...:
 Objetivo deste segundo projeto será na lingugem Java, JavaScript, Html e CSS3
 
@@ -34,4 +38,4 @@ Objetivo deste segundo projeto será na lingugem Java, JavaScript, Html e CSS3
 
 `JAVA PROJECTS` can be found [here](https://github.com/BelisnalvaCosta/Projeto-Trilha-Basico)
 
-[1] _Breve será concluído
+[^1]: ###_*Breve será concluído*_
